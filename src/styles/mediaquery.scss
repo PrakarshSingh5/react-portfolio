@@ -222,19 +222,6 @@
             aside {
               align-items: center;
             }
-  
-            article[data-special] {
-              width: 100%;
-              display: flex;
-              flex-direction: column;
-              align-items: center;
-              span {
-                display: block;
-                width: 70%;
-                word-wrap: break-word;
-              }
-            }
-  
             article {
               width: 100%;
               text-align: center;

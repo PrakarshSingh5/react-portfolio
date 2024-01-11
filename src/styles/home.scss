@@ -16,6 +16,7 @@
         padding-top: 6rem;
         > h1 {
           font: 900 4rem $text1;
+
         }
 
         .typewriterpara {
@@ -76,13 +77,14 @@
             font: 900 2rem $text1;
           }
           > span {
-            font: 500 1rem $text2;
+            font: 900 1rem $text2;
+          }
+          .resume{
+            cursor: pointer;
           }
         }
 
-        article[data-special] {
-          width: 16rem;
-        }
+        
       }
     }
 

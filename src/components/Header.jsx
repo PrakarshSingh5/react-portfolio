@@ -22,7 +22,7 @@ export const Mininav = ({isOpen,setisOpen}) => {
 }
 const NavContent=({setisOpen})=>(
     <>
-    <h2>CodePrak</h2>
+    <h2>Prakarsh</h2>
     <div>
         <a onClick={()=>setisOpen(false)} href='#home' >Home</a> 
         <a onClick={()=>setisOpen(false)} href='#work' >Work</a> 

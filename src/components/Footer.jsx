@@ -13,7 +13,7 @@ const Footer = () => {
 <div>
       <img src={lo} alt="Founder" />
       <h2>Prakarsh Singh</h2>
-      <p>Hard work is the key of succes.</p>
+      <p>Hard work is the key to succes.</p>
     </div>
     <aside>
         <h2>Socail Media</h2>

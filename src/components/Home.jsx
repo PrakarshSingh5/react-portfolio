@@ -2,6 +2,7 @@ import React from 'react'
 import { motion } from "framer-motion";
 import {BsArrowUpRight, BsChevronDown} from "react-icons/bs"
 import Typerwriter from "typewriter-effect";
+import { FaFileDownload } from "react-icons/fa";
 import photo from '../assets/imgprak.png';
 
 const Home = () => {
@@ -29,7 +30,8 @@ const Home = () => {
         },
 
     };
-  return <div id="home">
+  return (
+  <div id="home">
     <section>
     <div>
         
@@ -38,42 +40,36 @@ const Home = () => {
     </motion.h1>
 
 <Typerwriter 
-options={{strings:["A Developer","A Desingner", "A Creator"],
-autoStart:true,
-loop:true,
-cursor:"",
-wrapperClassName:"typewriterpara",}}
+        options={{strings:["A Developer","A Desingner", "A Creator"],
+         autoStart:true,
+        loop:true,
+        cursor:"",
+        wrapperClassName:"typewriterpara",}}
 />
 <div>
-    <a href="mailto:prakarshsinghlmpj@gmail.com">
+    <a href="mailto:prakarshsinghlmp@gmail.com">
         Hire Me
     </a>
     <a href="#work">
         Projects
-         <BsArrowUpRight/>
+        <BsArrowUpRight/>
     </a>
 </div>
-<article>
-    <p>
-    +<span>100</span></p>
-    <span>Clients WorldWiede
-       </span></article> 
-
-      <aside>
-      <article><p>
-    +<span>500</span></p>
-    <span>Projects Made
+<aside>
+    <article>
+      <p>
+       +<span>10</span></p>
+       <span>Projects Made
        </span>
-    </article>
-
-       <article data-special>
-        <p>
-      Contact</p>
-    <span>prakarshsinghlmp@gamil.com
+     </article>
+     <article>
+        <p className='resume'>
+        <FaFileDownload  />
+        </p>
+       <span><a href='https://drive.google.com/file/d/1HvrGXYV3gFkJCva0QXQDHFYcn_kn79zp/view?usp=sharing' target="blank" >Download Resume</a> 
        </span>
-       </article>
-
-           </aside>
+     </article>
+</aside>
     </div>
     </section>
     <section>
@@ -81,7 +77,7 @@ wrapperClassName:"typewriterpara",}}
     </section>
     <BsChevronDown/>
   </div>
-
+);
 }
 
 export default Home
