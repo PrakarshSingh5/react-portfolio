@@ -1,32 +1,33 @@
+
 {
   "projects": [
     {
       "date": "07/10/2022",
       "title": "React Notes Taking design ",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://reactone-nine.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      "description": "This is a notes taking website , which is made by using react , this gives so many functionalitites like adding new note , deleting notes and editing also.",
+      "url": "https://github.com/PrakarshSingh5/react-notes-website",
+      "imgSrc": "https://th.bing.com/th/id/OIP.zAXUXvheht2glFGZ6W9YFwAAAA?rs=1&pid=ImgDetMain"
     },
     {
       "date": "15/01/2023",
       "title": "React Landing Page",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-crypto-app-pi.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      "description": "This is the simple React landing website page .which is made using scss which comes to learn tough animations",
+      "url": "https://prakarshsingh5.github.io/react_landingpage/",
+      "imgSrc": "https://reactjsexample.com/content/images/2020/06/54mXN.jpg"
     },
     {
       "date": "20/01/2023",
-      "title": "Chrome Extension",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-cart-eosin.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      "title": "Photo Gallary ",
+      "description": "This is the simple Photo gallery website . By this i learn how to work with Api ",
+      "url": "https://prakarshsingh5.github.io/Photo-gallery/",
+      "imgSrc": "https://uicookies.com/wp-content/uploads/2018/07/explorer-free-photo-gallery-templates.jpg"
     },
     {
       "date": "20/01/2023",
-      "title": "Photo Gallery",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-cart-eosin.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      "title": "Education Website Landing page",
+      "description": "This is a simple educational website landing page, using some advanced css animation and some javascript for some events",
+      "url": "https://prakarshsingh5.github.io/Landingpage/",
+      "imgSrc": "https://figmaelements.com/wp-content/uploads/2019/11/education-landing-page-illustration-1024x768.png"
     }
   ]
 }
