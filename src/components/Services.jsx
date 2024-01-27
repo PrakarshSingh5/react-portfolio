@@ -48,13 +48,13 @@ const Services = ()=> {
             // delay:0.2}}
         >
             <AiFillAndroid/>
-            <span>App Developement</span>
+            <span>Problem Solver</span>
             
         </motion.div>
         <motion.div className="serviceBox4" whileInView={animation.whileInView}
         initial={animation.four}>
             <AiFillWindows/>
-            <span>Desktop Development</span>
+            <span>Compititve Programmer</span>
             
         </motion.div>
       </section>
