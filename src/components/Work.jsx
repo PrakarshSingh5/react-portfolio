@@ -22,7 +22,7 @@ const Work = () => {
                 data.projects.map(i=>(
                     <div key={i.title} className='workItem'>
                         <img src={i.imgSrc} alt={i.title}/>
-                        <aside>
+                        <aside >
                             <h3>{i.title}</h3>
                             <p>{i.description}</p>
                             <a target={"blank"} href={i.url}>View Demo</a>

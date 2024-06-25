@@ -2,25 +2,25 @@
 {
   "projects": [
     {
+      "date": "6/06/2024",
+      "title": "Blog Website",
+      "description": "Full Stack Website | I created a blog website where you can sign up, log in, and manage posts with create, read, update, and delete (CRUD) features. This project helped me learn how to use authentication and REST API. ",
+      "url": "https://project-tan-seven-19.vercel.app/",
+      "imgSrc": "https://res.cloudinary.com/dyanrgsbe/image/upload/v1719286145/pcfyuc1yy12y5ezykpp8.png"
+    },
+    {
+      "date": "15/06/2024",
+      "title": "Algorithm Visualize",
+      "description": "I developed a React.js project using JavaScript, HTML, and CSS to visualize sorting algorithms like Merge Sort and Quick Sort. This project helps users understand how different sorting algorithms work by providing interactive and dynamic visualizations.",
+      "url": "https://dsa-algovisulsizer.vercel.app/",
+      "imgSrc": "https://res.cloudinary.com/dyanrgsbe/image/upload/c_pad,ar_1:1/v1719286003/algo_xa4nmf.png"
+    },
+    {
       "date": "07/10/2022",
       "title": "React Notes Taking design ",
       "description": "This is a notes taking website , which is made by using react , this gives so many functionalitites like adding new note , deleting notes and editing also.",
       "url": "https://react-notes-website-12kl-2fim1pkru-prakarshsingh5.vercel.app/",
       "imgSrc": "https://th.bing.com/th/id/OIP.zAXUXvheht2glFGZ6W9YFwAAAA?rs=1&pid=ImgDetMain"
-    },
-    {
-      "date": "15/01/2023",
-      "title": "React Landing Page",
-      "description": "This is the simple React landing website page .which is made using scss which comes to learn tough animations",
-      "url": "https://prakarshsingh5.github.io/react_landingpage/",
-      "imgSrc": "https://reactjsexample.com/content/images/2020/06/54mXN.jpg"
-    },
-    {
-      "date": "20/01/2023",
-      "title": "Photo Gallary ",
-      "description": "This is the simple Photo gallery website . By this i learn how to work with Api ",
-      "url": "https://prakarshsingh5.github.io/Photo-gallery/",
-      "imgSrc": "https://uicookies.com/wp-content/uploads/2018/07/explorer-free-photo-gallery-templates.jpg"
     },
     {
       "date": "20/01/2023",

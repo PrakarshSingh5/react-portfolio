@@ -66,7 +66,7 @@ const Home = () => {
         <p className='resume'>
         <FaFileDownload  />
         </p>
-       <span><a href='https://drive.google.com/file/d/1HvrGXYV3gFkJCva0QXQDHFYcn_kn79zp/view?usp=sharing' target="blank" >Download Resume</a> 
+       <span><a href='https://drive.google.com/file/d/1BF9ePdmXqxrINt2FxvmP31h5mTLsgU4m/view?usp=sharing' target="blank" style={{color:"inherit"}} >Download Resume</a> 
        </span>
      </article>
 </aside>

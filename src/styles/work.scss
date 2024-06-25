@@ -43,10 +43,11 @@
                flex-direction: column;
                justify-content: center;
                align-items: center;
+              
              >p{
-                letter-spacing: 3px;
-                line-height: 190%;
-                margin: 2rem;
+                letter-spacing: 1px;
+                line-height: 150%;
+                margin-top: 2rem;
              }
              >a{
                 background-color: $color3;
