@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import {BsArrowUpRight, BsChevronDown} from "react-icons/bs"
 import Typerwriter from "typewriter-effect";
 import { FaFileDownload } from "react-icons/fa";
-import photo from '../assets/imgprak.png';
+import photo from '../assets/1670067803439.jpg';
 
 const Home = () => {
     const animations={
